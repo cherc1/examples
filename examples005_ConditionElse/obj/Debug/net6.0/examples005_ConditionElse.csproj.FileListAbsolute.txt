@@ -1,0 +1,15 @@
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.csproj.AssemblyReference.cache
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.AssemblyInfoInputs.cache
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.AssemblyInfo.cs
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.csproj.CoreCompileInputs.cache
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\bin\Debug\net6.0\examples005_ConditionElse.exe
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\bin\Debug\net6.0\examples005_ConditionElse.deps.json
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\bin\Debug\net6.0\examples005_ConditionElse.runtimeconfig.json
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\bin\Debug\net6.0\examples005_ConditionElse.dll
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\bin\Debug\net6.0\examples005_ConditionElse.pdb
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.dll
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\refint\examples005_ConditionElse.dll
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.pdb
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\examples005_ConditionElse.genruntimeconfig.cache
+C:\Users\Гость пар\Desktop\учеба\настоящее\GeekBrains\пакет разработчик\1 четверть\знакомство с ЯП Сшарп\1\examples\examples005_ConditionElse\obj\Debug\net6.0\ref\examples005_ConditionElse.dll
